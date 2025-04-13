@@ -1,3 +1,0 @@
-﻿# Practice-MLOps
-
- More about git and github
